@@ -1,0 +1,20 @@
+﻿HotelManagement
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\FPT_UNI\PRN211\CSharp (C#)\Assignment In Class\BusinessObject\HotelManagement\obj\Debug\net8.0-windows\
+HotelManagement
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\FPT_UNI\PRN211\CSharp (C#)\Assignment In Class\BusinessObject\HotelManagement\App.xaml
+111004625496
+
+16-834956946
+250-630763021
+Admins\AddNewCustomer.xaml;Admins\AddNewRoom.xaml;Admins\AddNewRoomType.xaml;Admins\AdminWindow.xaml;Admins\EditCustomer.xaml;Admins\EditRoomInformation.xaml;Admins\EditRoomType.xaml;Customers\CustomerWindow.xaml;Customers\UpdateProfile.xaml;Customers\ViewDetailBooking.xaml;LoginWindow.xaml;
+
+True
+

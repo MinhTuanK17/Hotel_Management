@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Admins\AddNewCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\AddNewRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\AddNewRoomType.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\EditCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\EditRoomInformation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Admins\EditRoomType.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customers\CustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customers\UpdateProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customers\ViewDetailBooking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Admins\AddNewCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\AddNewRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\AddNewRoomType.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\EditCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\EditRoomInformation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Admins\EditRoomType.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customers\CustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customers\UpdateProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customers\ViewDetailBooking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
