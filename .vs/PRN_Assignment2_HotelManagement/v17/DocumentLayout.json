@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\viewdetailbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\viewdetailbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\businessobject\\common\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\common\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\hotelmanagement\\customers\\viewdetailbooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\viewdetailbooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\businessobject\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\hotelmanagement\\admins\\editcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\editcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\admins\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\hotelmanagement\\admins\\editcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\editcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\updateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\updateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|d:\\fpt_uni\\prn211\\csharp (c#)\\assignment in class\\hotel_managemnet_efc\\hotelmanagement\\admins\\editroominformation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\editroominformation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\businessobject\\common\\adminaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\common\\adminaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\businessobject\\migrations\\20240715145011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +63,8 @@
       "RelativeMoniker": "D:0:0:{88C46888-8778-4E46-8C99-1C56C326365B}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\migrations\\hoteldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\viewdetailbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\viewdetailbooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\customerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\admins\\addnewroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\addnewroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\updateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\updateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\customers\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\customers\\customerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\admins\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\admins\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD200F71-E1E9-4627-9463-E4BFB010B88A}|HotelManagement\\HotelManagement.csproj|D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\hotelmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -104,7 +124,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,43 +136,158 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\BookingDetail.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObject\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:59:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDetailBooking.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Customers\\ViewDetailBooking.xaml.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Customers\\ViewDetailBooking.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:47:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Customers\\CustomerWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Customers\\CustomerWindow.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:50:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewDetailBooking.xaml",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Customers\\ViewDetailBooking.xaml",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml",
+              "RelativeToolTip": "HotelManagement\\Customers\\ViewDetailBooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T07:20:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\appsettings.json",
-              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\appsettings.json",
-              "RelativeToolTip": "BusinessObject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-16T05:50:34.616Z"
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Common\\HotelDbContext.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\HotelDbContext.cs",
+              "RelativeToolTip": "BusinessObject\\Common\\HotelDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:18:15.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomerWindow.xaml",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Customers\\CustomerWindow.xaml",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml",
+              "RelativeToolTip": "HotelManagement\\Customers\\CustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T07:19:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditCustomer.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Admins\\EditCustomer.xaml.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditCustomer.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Admins\\EditCustomer.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:45:00.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Admins\\AdminWindow.xaml.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagement\\Admins\\AdminWindow.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:16:26.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCustomer.xaml",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditCustomer.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Admins\\EditCustomer.xaml",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditCustomer.xaml",
+              "RelativeToolTip": "HotelManagement\\Admins\\EditCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T17:44:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditRoomInformation.xaml",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditRoomInformation.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Admins\\EditRoomInformation.xaml",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditRoomInformation.xaml",
+              "RelativeToolTip": "HotelManagement\\Admins\\EditRoomInformation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T17:42:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AdminAccount.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\AdminAccount.cs",
               "RelativeDocumentMoniker": "BusinessObject\\Common\\AdminAccount.cs",
               "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\AdminAccount.cs",
               "RelativeToolTip": "BusinessObject\\Common\\AdminAccount.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwBsAAABYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T18:31:22.261Z"
+              "WhenOpened": "2024-07-15T18:31:22.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HotelDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T05:52:24.573Z"
+              "DocumentIndex": 9,
+              "Title": "UpdateProfile.xaml",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\UpdateProfile.xaml",
+              "RelativeDocumentMoniker": "HotelManagement\\Customers\\UpdateProfile.xaml",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\UpdateProfile.xaml",
+              "RelativeToolTip": "HotelManagement\\Customers\\UpdateProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T07:21:06.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "20240715145011_Initial.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Migrations\\20240715145011_Initial.cs",
               "RelativeDocumentMoniker": "BusinessObject\\Migrations\\20240715145011_Initial.cs",
@@ -164,77 +299,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HotelDbContext.cs",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\HotelDbContext.cs",
-              "RelativeDocumentMoniker": "BusinessObject\\Common\\HotelDbContext.cs",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Common\\HotelDbContext.cs",
-              "RelativeToolTip": "BusinessObject\\Common\\HotelDbContext.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwCMAAAA5AAAA",
+              "DocumentIndex": 14,
+              "Title": "HotelDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BusinessObject\\Migrations\\HotelDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:18:15.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T05:52:24.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\Customers\\CustomerWindow.xaml.cs",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml.cs",
-              "RelativeToolTip": "HotelManagement\\Customers\\CustomerWindow.xaml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:50:54.555Z"
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T05:50:34.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ViewDetailBooking.xaml",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml",
-              "RelativeDocumentMoniker": "HotelManagement\\Customers\\ViewDetailBooking.xaml",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\ViewDetailBooking.xaml",
-              "RelativeToolTip": "HotelManagement\\Customers\\ViewDetailBooking.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T07:20:35.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminWindow.xaml.cs",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\Admins\\AdminWindow.xaml.cs",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "HotelManagement\\Admins\\AdminWindow.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAYwDoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T06:16:26.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerWindow.xaml",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml",
-              "RelativeDocumentMoniker": "HotelManagement\\Customers\\CustomerWindow.xaml",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\CustomerWindow.xaml",
-              "RelativeToolTip": "HotelManagement\\Customers\\CustomerWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T07:19:34.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateProfile.xaml",
-              "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\UpdateProfile.xaml",
-              "RelativeDocumentMoniker": "HotelManagement\\Customers\\UpdateProfile.xaml",
-              "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Customers\\UpdateProfile.xaml",
-              "RelativeToolTip": "HotelManagement\\Customers\\UpdateProfile.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T07:21:06.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AddNewRoom.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AddNewRoom.xaml",
               "RelativeDocumentMoniker": "HotelManagement\\Admins\\AddNewRoom.xaml",
@@ -245,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "AddNewCustomer.xaml.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AddNewCustomer.xaml.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Admins\\AddNewCustomer.xaml.cs",
@@ -257,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "HotelManagement\\Admins\\AdminWindow.xaml",
@@ -268,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "EditRoomType.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\Admins\\EditRoomType.xaml",
               "RelativeDocumentMoniker": "HotelManagement\\Admins\\EditRoomType.xaml",
@@ -279,18 +368,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\App.xaml",
               "RelativeDocumentMoniker": "HotelManagement\\App.xaml",
               "ToolTip": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\App.xaml",
               "RelativeToolTip": "HotelManagement\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-15T18:28:42.261Z"
+              "WhenOpened": "2024-07-15T18:28:42.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "HotelManagement\\AssemblyInfo.cs",
@@ -302,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\Customer.cs",
               "RelativeDocumentMoniker": "BusinessObject\\Customer.cs",
@@ -314,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "CustomerDAO.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\DataLayerAccess\\CustomerDAO.cs",
               "RelativeDocumentMoniker": "DataLayerAccess\\CustomerDAO.cs",
@@ -326,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoginWindow.xaml.cs",
@@ -338,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\HotelManagement\\AdminWindows\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "..\\BusinessObject\\HotelManagement\\AdminWindows\\AdminWindow.xaml",
@@ -349,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "CustomerWindow.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\HotelManagement\\CustomerWindows\\CustomerWindow.xaml",
               "RelativeDocumentMoniker": "..\\BusinessObject\\HotelManagement\\CustomerWindows\\CustomerWindow.xaml",
@@ -360,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\Repositories\\CustomerR\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CustomerR\\CustomerRepository.cs",
@@ -372,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\Repositories\\CustomerR\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CustomerR\\ICustomerRepository.cs",
@@ -384,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "HotelManagement\\LoginWindow.xaml",

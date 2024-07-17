@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BusinessObject;
+using Repositories.BookingDetailR;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,27 @@ namespace HotelManagement.Customers
     /// </summary>
     public partial class ViewDetailBooking : Window
     {
+        private readonly IBookingDetailRepository bookingDetailRepository;
         public ViewDetailBooking()
         {
             InitializeComponent();
+            bookingDetailRepository = new BookingDetailRepository();
+        }
+        public void LoadBooking (BookingDetail bookingDetail)
+        {
+            txtBookingId.Text = bookingDetail.BookingReservationID;
+            txtBookingDate.Text = bookingDetail.BookingReservation.BookingDate.ToString();
+            txtStartDate.Text = bookingDetail.StartDate.ToString();
+            txtEndDate.Text = bookingDetail.EndDate.ToString();
+            txtRoomID.Text = bookingDetail.RoomID;
+            txtRoomNumber.Text = bookingDetail.RoomInformation.RoomNumber.ToString();
+            txtStatus.Text = bookingDetail.BookingReservation.BookingStatus;
+            txtPrice.Text = bookingDetail.ActualPrice.ToString();
+        }
+
+        private void Back_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

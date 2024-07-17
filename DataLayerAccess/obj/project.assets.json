@@ -3137,11 +3137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\DataLayerAccess\\DataLayerAccess.csproj",
+      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\DataLayerAccess\\DataLayerAccess.csproj",
       "projectName": "DataLayerAccess",
-      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\DataLayerAccess\\DataLayerAccess.csproj",
+      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\DataLayerAccess\\DataLayerAccess.csproj",
       "packagesPath": "C:\\Users\\MINH TUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\DataLayerAccess\\obj\\",
+      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\DataLayerAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3158,8 +3158,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

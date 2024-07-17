@@ -3446,11 +3446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\HotelManagement\\HotelManagement.csproj",
+      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\HotelManagement.csproj",
       "projectName": "HotelManagement",
-      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\HotelManagement\\HotelManagement.csproj",
+      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\HotelManagement.csproj",
       "packagesPath": "C:\\Users\\MINH TUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\HotelManagement\\obj\\",
+      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\HotelManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3467,11 +3467,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj"
             },
-            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\Repositories\\Repositories.csproj"
+            "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\Repositories\\Repositories.csproj"
             }
           }
         }

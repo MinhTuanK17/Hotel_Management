@@ -136,12 +136,12 @@
                     </StackPanel>
                 </TabItem.Header>
                 <Grid Background="#fff" Height="Auto">
-                    <DataGrid Name="dtgBookingReservation" Margin="10" AutoGenerateColumns="False" IsReadOnly="True" Background="#fff" BorderBrush="#ddd" BorderThickness="1">
+                    <DataGrid Name="dtgBookDetails" Margin="10" AutoGenerateColumns="False" IsReadOnly="True" Background="#fff" BorderBrush="#ddd" BorderThickness="1">
                         <DataGrid.Columns>
-                            <DataGridTextColumn Header="Reservation ID" Binding="{Binding BookingReservationID}" Width="*"/>
-                            <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingDate}" Width="*"/>
-                            <DataGridTextColumn Header="Total Price" Binding="{Binding TotalPrice}" Width="*"/>
-                            <DataGridTextColumn Header="Booking Status" Binding="{Binding BookingStatus}" Width="*"/>
+                            <DataGridTextColumn Header="Reservation ID" Binding="{Binding BookingReservation.BookingReservationID}" Width="*"/>
+                            <DataGridTextColumn Header="Booking Date" Binding="{Binding BookingReservation.BookingDate}" Width="*"/>
+                            <DataGridTextColumn Header="Total Price" Binding="{Binding ActualPrice}" Width="*"/>
+                            <DataGridTextColumn Header="Booking Status" Binding="{Binding BookingReservation.BookingStatus}" Width="*"/>
                             <DataGridTemplateColumn Header="Actions" Width="*">
                                 <DataGridTemplateColumn.CellTemplate>
                                     <DataTemplate>

@@ -4415,11 +4415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj",
       "projectName": "BusinessObject",
-      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\BusinessObject.csproj",
+      "projectPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\BusinessObject.csproj",
       "packagesPath": "C:\\Users\\MINH TUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\BusinessObject\\obj\\",
+      "outputPath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MINH TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

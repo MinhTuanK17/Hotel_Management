@@ -42,12 +42,12 @@
             </TextBlock>
 
             <TextBlock Grid.Row ="1" Grid.Column="0" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="22" Grid.ColumnSpan="2">
-                Booking ID
+                Booking ID:
             </TextBlock>
-            <TextBlock Grid.Row ="1" Grid.Column="1" Margin="30,0,10,0" Name="txtBookingId"  VerticalAlignment="Center" Height="22"/>
+            <TextBlock Grid.Row ="1" Grid.Column="1" Margin="30,0,10,0" Name="txtBookingId"  VerticalAlignment="Center" Height="22" FontWeight="Bold"/>
 
             <TextBlock Grid.Row ="1" Grid.Column="2" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="22" Grid.ColumnSpan="2">
-                Booking Date
+                Booking Date:
             </TextBlock>
             <TextBlock Grid.Row ="1" Grid.Column="3" Margin="30,0,10,0" Name="txtBookingDate" VerticalAlignment="Center" Height="22"/>
 
@@ -59,13 +59,13 @@
             <TextBlock Grid.Row="2" Grid.Column="2" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="21" Grid.ColumnSpan="2">
                 End Date:
             </TextBlock>
-            <TextBlock FontSize="16" Grid.Row="2" Grid.Column="3" Margin="30,0,10,0" Name="txtEndDate" VerticalAlignment="Center" Height="22"/>
+            <TextBlock Grid.Row="2" Grid.Column="3" Margin="30,0,10,0" Name="txtEndDate" VerticalAlignment="Center" Height="22"/>
 
 
             <TextBlock Grid.Row="3" Grid.Column="0" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="21" Grid.ColumnSpan="2">
                 Room ID:
             </TextBlock>
-            <TextBlock Grid.Row="3" Grid.Column="1" Margin="30,0,10,0" Name="txtRoomID" VerticalAlignment="Center" Height="21"/>
+            <TextBlock Grid.Row="3" Grid.Column="1" Margin="30,0,10,0" Name="txtRoomID" VerticalAlignment="Center" Height="21" FontWeight="Bold"/>
 
 
             <TextBlock Grid.Row="3" Grid.Column="2" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="21" Grid.ColumnSpan="2">
@@ -73,27 +73,23 @@
             </TextBlock>
             <TextBlock Grid.Row="3" Grid.Column="3" Margin="30,0,10,0" Name="txtRoomNumber" VerticalAlignment="Center" Height="21"/>
 
-            <TextBlock Grid.Row="4" FontSize="16" VerticalAlignment="Top" Margin="10,26,198,0" Height="21" Grid.ColumnSpan="2">
-                :
+            <TextBlock Grid.Row="4" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="21" Grid.ColumnSpan="2">
+                Status:
             </TextBlock>
-            <TextBox Grid.Row="4" Grid.ColumnSpan="3" Margin="30,0,10,0" Name="txtDescription" TabIndex="7" VerticalAlignment="Center" VerticalContentAlignment="Center" Height="38" Grid.Column="1"/>
+            <TextBlock Grid.Row="4" Margin="30,0,10,0" Name="txtStatus" VerticalAlignment="Center" Height="26" Grid.Column="1"/>
+
+            <TextBlock Grid.Row="4" Grid.Column="2" FontSize="16" VerticalAlignment="Center" Margin="10,0,198,0" Height="21" Grid.ColumnSpan="2">
+    Amount Price:
+            </TextBlock>
+            <TextBlock Grid.Row="4" Grid.Column="3" Margin="30,0,10,0" Name="txtPrice" VerticalAlignment="Center" Height="22" Foreground="Red" FontWeight="Bold" />
         </Grid>
 
         <Grid Margin="17,10,10,0" Grid.Row="1" Grid.ColumnSpan="3" Height="73" VerticalAlignment="Top">
-
-            <Button
-                Grid.Row="0"
-                Margin="348,15,180,15"
-                Content="Save"
-                Background="#FF76CDD6" BorderBrush="Black"
-                FontSize="20"
-                 Cursor="Hand" FontWeight="Bold" Width="115" HorizontalAlignment="Center"/>
-
             <Button
                 Grid.Row="0"
                 Margin="505,14,18,16"
-                Content="Cancel"
-                FontSize="20" Cursor="Hand" Width="115" FontWeight="Bold" Background="#FFEBE0E0" HorizontalAlignment="Center"
+                Content="Back"
+                Click="Back_Click" FontSize="20" Cursor="Hand" Width="115" FontWeight="Bold" Background="#FFEBE0E0" HorizontalAlignment="Center"
             />
         </Grid>
     </Grid>

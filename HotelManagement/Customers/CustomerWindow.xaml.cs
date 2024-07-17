@@ -1,5 +1,6 @@
 ﻿using BusinessObject;
 using HotelManagement.Admins;
+using Repositories.BookingDetailR;
 using Repositories.BookingReservationR;
 using Repositories.CustomerR;
 using System.Windows;
@@ -13,12 +14,12 @@ namespace HotelManagement.Customers
     {
         public Customer LoggedInUser { get; set; }
         private readonly ICustomerRepository customerRepository;
-        private readonly IBookingReservationRepository reservationRepository;
+        private readonly IBookingDetailRepository bookingDetailRepository;
         public CustomerWindow()
         {
             InitializeComponent();
             customerRepository = new CustomerRepository();
-            reservationRepository = new BookingReservationRepository();
+            bookingDetailRepository = new BookingDetailRepository();
             DataContext = this;
         }
 
@@ -48,8 +49,8 @@ namespace HotelManagement.Customers
         {
             try
             {
-                var bookingHis = await reservationRepository.GetAllBookingReservation();
-                dtgBookingReservation.ItemsSource = bookingHis;
+                var bookingHis = await bookingDetailRepository.GetAllBookingDetail();
+                dtgBookDetails.ItemsSource = bookingHis;
             }
             catch (Exception ex)
             {
@@ -66,7 +67,14 @@ namespace HotelManagement.Customers
         }
         private void Detail_Click(object sender, RoutedEventArgs e)
         {
+            BookingDetail? selectBook = (sender as FrameworkElement)?.DataContext as BookingDetail;
 
+            if (selectBook != null)
+            {
+                ViewDetailBooking viewDetailBooking = new ViewDetailBooking();
+                viewDetailBooking.LoadBooking(selectBook);
+                viewDetailBooking.Show();
+            }
         }
 
     }

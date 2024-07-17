@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0DRaniTcjLOzMgvM/yZqCS2qx2WsnvBkl+TRgB3ZYNAiMOzcwHn2HaDdSHjk94PVcf6l7q8SQA7FXAeUKcyQyA==",
+  "dgSpecHash": "spZQkJrcduk0fpe6n8N2uuecZlPXWAcFB4fXibuEOzERSklB6iCy5nhlj6/s64z+bp6gVXrHBsUJbM43B2gM9w==",
   "success": true,
-  "projectFilePath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\BusinessObject\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\FPT_UNI\\PRN211\\CSharp (C#)\\Assignment In Class\\Hotel_Managemnet_EFC\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MINH TUAN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MINH TUAN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
